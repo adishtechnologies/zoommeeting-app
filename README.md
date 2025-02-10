@@ -11,14 +11,14 @@ Zoom Meeting SDK Client View
 Installation
 To get started, clone the repo:
 
-$ git clone https://github.com/zoom/meetingsdk-angular-sample.git
+
 
 To setup and run the app you will need the Angular CLI.
 
 Setup
 Once cloned, navigate to the meetingsdk-angular-sample directory:
 
-$ cd meetingsdk-angular-sample
+
 
 Then install the dependencies:
 
