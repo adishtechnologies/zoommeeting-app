@@ -2,7 +2,7 @@
 
 URL: http://localhost:4200/
 
-This application includes a component that launches the Zoom app directly within the Angular page.
+This application includes a component that launches the Zoom app within the Angular page.
 
 The genSignature method is used to generate the signature based on the user role:
 
