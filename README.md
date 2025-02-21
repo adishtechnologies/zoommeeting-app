@@ -1,5 +1,9 @@
 **Angular App**
 
+npm install 
+
+np serve
+
 URL: http://localhost:4200/
 
 This application includes a component that launches the Zoom app within the Angular page.
@@ -11,6 +15,10 @@ Role = 0 → Launches the app for a student.
 Role = 1 → Launches the app for a host.
 
 **Node App**
+
+npm install
+
+npm run start
 
 URL: http://localhost:3000/
 
