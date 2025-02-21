@@ -2,7 +2,7 @@
 
 npm install 
 
-np serve
+ng serve
 
 URL: http://localhost:4200/
 
